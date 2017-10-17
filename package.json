@@ -1,0 +1,22 @@
+{
+  "name": "nsmodernjs",
+  "version": "1.0.0",
+  "description": "nerdschool nodejs stuff",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wryth/NS_ModernJS.git"
+  },
+  "keywords": [
+    "nerdschool"
+  ],
+  "author": "Viktor Hansen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wryth/NS_ModernJS/issues"
+  },
+  "homepage": "https://github.com/Wryth/NS_ModernJS#readme"
+}
