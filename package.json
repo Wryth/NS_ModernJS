@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Wryth/NS_ModernJS/issues"
   },
-  "homepage": "https://github.com/Wryth/NS_ModernJS#readme"
+  "homepage": "https://github.com/Wryth/NS_ModernJS#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
